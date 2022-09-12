@@ -1,0 +1,17 @@
+#nav {
+    display: inline-flex;
+    color: black;
+    padding-right: 25px;
+}
+
+.container {
+    margin-top: 50px;
+    text-align: center;
+    background-color: #7777;
+}
+
+#title {
+    text-align: center;
+    color: blue;
+    margin-top: 25px;
+}
